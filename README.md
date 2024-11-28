@@ -1,4 +1,4 @@
-![er input (2)](https://github.com/user-attachments/assets/68bd8181-1f95-4935-9896-de4320b32704)This project aims at creating an SEO Analyzer Tool that can
+This project aims at creating an SEO Analyzer Tool that can
 evaluate and enhance the website content specifically focusing on search engine
 optimization (SEO) factors. The tool is designed as a Flask web app, where
 the users enter some URLs for the analysis. It conducts a detailed analysis
