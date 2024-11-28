@@ -16,20 +16,22 @@ time. This project outlines the significance of practical and efficient Search
 Engine Optimization and the growing need for such a website for the purpose
 of optimizing websites for the registrants and online marketers. The structure
 of the tool is designed for improvements, including more sophisticated SEO
-systems that may be integrated in the future
+systems that may be integrated in the future.
+
+
 LIST OF MODULES 
-Request Handling and Routing
+1)Request Handling and Routing
 
-User Input
+2)User Input
 
-Web Request Handling
+3)Web Request Handling
 
-HTML Parsing
+4)HTML Parsing
 
-SEO Analysis
+5)SEO Analysis
 
-Result Handling
+6)Result Handling
 
 
-**SYSTEM ARCHITECTURE **
+SYSTEM ARCHITECTURE
 ![er input (2)](https://github.com/user-attachments/assets/564fab32-ece4-490f-ad0b-3887b468d733)
