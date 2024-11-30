@@ -14,6 +14,8 @@ LIST OF MODULES
 
 6)Result Handling
 
-SYSTEM ARCHITECTURE er input (2)
+SYSTEM ARCHITECTURE 
+
+![image](https://github.com/user-attachments/assets/322f2c2c-5e0e-402c-b2f3-24a2ef7284ab)
 
 
