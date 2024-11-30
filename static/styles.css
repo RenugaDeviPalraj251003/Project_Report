@@ -1,0 +1,360 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, a, form, input, button {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Basic styling */
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    background-color: #f4f4f4;
+    line-height: 1.6;
+}
+
+/* Header styling */
+
+header {
+    background: linear-gradient(45deg, #724BB7 0%, #4098D7 100%); /* Purple to Blue gradient */
+    color: #ffffff; /* White text color */
+    padding: 15px 0; /* Vertical padding for spacing */
+    position: fixed; /* Keep header fixed at the top */
+    width: 100%; /* Full width */
+    top: 0; /* Align to the top of the viewport */
+    left: 0; /* Align to the left of the viewport */
+    z-index: 1000; /* Ensure it stays on top of other content */
+}
+
+header .container {
+    max-width: 1200px; /* Max width for container */
+    margin: 0 auto; /* Center align container */
+    padding: 0 20px; /* Horizontal padding */
+    display: flex; /* Flexbox for alignment */
+    justify-content: space-between; /* Space between elements */
+    align-items: center; /* Center align items vertically */
+}
+
+header h1 {
+    font-size: 2rem; /* Font size for the title */
+    margin: 0; /* Remove default margin */
+}
+
+header nav {
+    display: flex; /* Flexbox for navigation links */
+}
+
+header nav a {
+    color: #ffffff; /* White color for links */
+    text-decoration: none; /* Remove underline */
+    margin-left: 20px; /* Space between links */
+    font-weight: bold; /* Bold text for links */
+    transition: color 0.3s;
+     /* Smooth color transition on hover */
+}
+
+header nav a:hover {
+    color: #ffdd57; /* Change color on hover */
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Lora', serif;
+}
+/* Styling for the analyze button */
+button[type="submit"] {
+    background-color: #007BFF; /* Button background color */
+    color: #fff; /* Button text color */
+    padding: 12px 24px; /* Padding inside the button */
+    border: none; /* Remove default border */
+    border-radius: 6px; /* Rounded corners */
+    font-size: 18px; /* Font size */
+    font-weight: bold; /* Bold text */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s, transform 0.2s; /* Smooth transitions */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+button[type="submit"]:hover {
+    background-color: #0056b3; /* Darker background on hover */
+    transform: translateY(-2px); /* Slight lift on hover */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.15); /* Enhance shadow on hover */
+}
+
+button[type="submit"]:active {
+    background-color: #00408a; /* Even darker on click */
+    transform: translateY(0); /* Reset lift on click */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Reset shadow on click */
+}
+
+button[type="submit"]:focus {
+    outline: none; /* Remove default outline */
+    box-shadow: 0 0 0 4px rgba(0, 123, 255, 0.25); /* Add focus ring */
+}
+
+/* Main content styling */
+main {
+    padding-top: 100px;
+   
+}
+
+.container {
+    max-width: 1200px;
+    margin: auto;
+    padding: 0 20px;
+    padding-left: 5%;
+}
+/* Dark Mode Toggle */
+.theme-toggle {
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    font-size: 14px;
+    color: #524f4f;
+}
+
+.theme-toggle label {
+    margin-right: 5px;
+}
+
+/* Form section styling */
+.form-section {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    text-align: center;
+    position: relative;
+}
+
+.form-section h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #333;
+}
+
+input[type="text"] {
+    width: calc(50%);
+    padding: 15px;
+    margin-bottom: 15px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+/* Styling for the download button */
+.download-btn {
+    display: inline-block;
+    background-color: #007BFF; /* Button background color */
+    color: #fff; /* Button text color */
+    padding: 10px 10px; /* Padding for the button */
+    border-radius: 4px; /* Rounded corners */
+    text-decoration: none; /* Remove underline */
+    font-size: 18px; /* Font size */
+    font-weight: bold; /* Bold text */
+    cursor: pointer; /* Pointer cursor on hover */
+    transition: background-color 0.3s; /* Smooth background color transition */
+}
+
+.download-btn:hover {
+    background-color: #0056b3; /* Darker background on hover */
+}
+
+
+.animation {
+    width: 100%;
+    max-width: 500px;
+    margin-top: 20px;
+}
+
+/* Benefits section styling */
+.benefits-section {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.benefits-section h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #333;
+    text-align: center;
+}
+
+.benefit {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.benefit img {
+    width: 80px;
+    height: 80px;
+    margin-bottom: 10px;
+}
+
+.benefit h3 {
+    margin-bottom: 10px;
+    font-size: 1.5rem;
+    color: #007BFF;
+}
+
+.benefit p {
+    font-size: 1rem;
+    color: #666;
+}
+
+/* Contact section styling */
+.contact-section {
+    background: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.contact-section h2 {
+    margin-bottom: 20px;
+    font-size: 2rem;
+    color: #333;
+}
+
+.contact-section p a {
+    color: #007BFF;
+    text-decoration: none;
+}
+
+.contact-section p a:hover {
+    text-decoration: underline;
+}
+
+      /* Style for the input field */
+      #url {
+        width: 300px; /* Increase the width of the input field */
+        height: 40px; /* Increase the height of the input field */
+        padding: 5px 10px; /* Add padding inside the input field */
+        font-size: 16px; /* Increase the font size */
+        border-radius: 5px; /* Add rounded corners */
+        border: 1px solid #ccc; /* Add a border */
+    }
+
+    /* Style for the button */
+    button {
+        height: 40px; /* Make the button height match the input field */
+        padding: 0 20px; /* Add padding inside the button */
+        font-size: 16px; /* Increase the font size */
+        border-radius: 5px; /* Add rounded corners */
+        border: 1px solid #ccc; /* Add a border */
+        background-color: #007bff; /* Add background color */
+        color: white; /* Set text color to white */
+        cursor: pointer; /* Change cursor to pointer */
+    }
+
+    button:hover {
+        background-color: #0056b3; /* Darken button color on hover */
+    }
+
+/* Footer styling */
+footer {
+    background: linear-gradient(45deg, #724BB7 0%, #4098D7 100%); /* Purple to Blue gradient */
+    color: #fff;
+    padding: 10px 0;
+    padding-top: 10px;
+    text-align: center;
+}
+/* styles.css */
+
+/* Style for the score section */
+/* styles.css */
+
+/* Style for the score section */
+/* styles.css */
+
+/* Style for the score section */
+.score-section {
+    background-color: #f9f9f9; /* Slightly off-white background */
+    border: 1px solid #007bff; /* Blue border */
+    border-radius: 8px; /* Rounded corners */
+    padding: 15px; /* Padding inside the section */
+    margin-bottom: 20px; /* Space below the section */
+    text-align: center; /* Center align text */
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Light shadow */
+}
+
+.score-section h2 {
+    font-size: 1.4em; /* Slightly smaller heading */
+    color: #333; /* Dark text color */
+    margin-bottom: 5px; /* Reduced space below heading */
+    font-weight: 600; /* Bold heading */
+}
+
+.score {
+    font-size: 2.5em; /* Smaller font size for score */
+    font-weight: 700; /* Bold text */
+    color: #28a745; /* Green color for score */
+    margin: 0; /* Remove margin */
+    padding: 5px 0; /* Reduced padding around score */
+    border-radius: 4px; /* Rounded corners */
+    background: #eaf7ea; /* Light green background */
+    display: inline-block; /* Inline-block for centering */
+}
+/* Dark Mode Styles */
+body.dark-mode {
+    background-color: #343a40;
+    color: #7d8084;
+}
+
+body.dark-mode header {
+    background: #1a1d20;
+}
+
+body.dark-mode footer {
+    background: #23272b;
+}
+
+body.dark-mode nav a {
+    color: #f8f9fa;
+}
+/* Loading Spinner */
+.loading-spinner {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    margin-top: 20px;
+    border: 2px solid #ccc;
+    background-color: #fff;
+    border-radius: 10px;
+}
+
+.spinner {
+    border: 4px solid rgba(0, 0, 0, 0.1);
+    border-left-color: #4CAF50;
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    animation: spin 1s linear infinite;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.loading-spinner p {
+    margin-top: 10px;
+    font-size: 16px;
+    color: #333;
+}
+

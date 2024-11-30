@@ -1,0 +1,214 @@
+SEO Analysis Report
+Overall Score: 85
+
+SEO Title: W3Schools Online Web Tutorials
+SEO Description: None
+
+Top Keywords:
+learn: 91
+tutorial: 86
+certificate: 53
+reference: 43
+course: 40
+exercise: 38
+web: 35
+quiz: 34
+html: 23
+css: 20
+
+Keyword Density:
+learn: 6.4%
+tutorial: 6.05%
+certificate: 3.73%
+reference: 3.02%
+course: 2.81%
+exercise: 2.67%
+web: 2.46%
+quiz: 2.39%
+html: 1.62%
+css: 1.41%
+
+Local Keywords Found:
+
+Title Keywords:
+
+The Good:
+Title Exists! Great!
+h2 --> Tutorials
+h3 --> HTML and CSS
+h3 --> Data Analytics
+h3 --> Web Building
+h3 --> JavaScript
+h3 --> Web Building
+h3 --> Backend
+h3 --> Data Analytics
+h3 --> Web Building
+h2 --> Exercises
+h3 --> HTML and CSS
+h3 --> Data Analytics
+h3 --> JavaScript
+h3 --> Backend
+h3 --> Data Analytics
+h2 --> Certificates
+h3 --> HTML and CSS
+h3 --> Data Analytics
+h3 --> Programs
+h3 --> JavaScript
+h3 --> Programs
+h3 --> Programs
+h3 --> Backend
+h3 --> Data Analytics
+h2 --> All Our Services
+h4 --> Free Tutorials
+h4 --> References
+h4 --> Create a Website
+h4 --> Exercises
+h4 --> Quizzes
+h4 --> Get Certified
+h4 --> Log in / Sign Up
+h4 --> Pathfinder & My Learning
+h4 --> Upgrade
+h4 --> Where To Start
+h4 --> Code Editor (Try it)
+h4 --> Videos
+h4 --> Templates
+h4 --> Web Hosting
+h4 --> Create a Server
+h4 --> How To's
+h4 --> CSS Framework
+h4 --> Browser Statistics
+h4 --> Typing Speed
+h4 --> AWS Training
+h4 --> Color Picker
+h4 --> Code Game
+h4 --> Set Goal
+h4 --> Newsletter
+h4 --> For Teachers
+h4 --> For Businesses
+h4 --> Contact Us
+h1 --> Learn to Code
+h3 --> With the world's largest web developer site.
+h4 --> Not Sure Where To Begin?
+h1 --> HTML
+h3 --> HTML Example:
+h1 --> CSS
+h3 --> CSS Example:
+h1 --> JavaScript
+h3 --> JavaScript Example:
+h1 --> Python
+h3 --> Python Example:
+h1 --> SQL
+h3 --> SQL Example:
+h2 --> PHP
+h5 --> A web server programming language
+h2 --> jQuery
+h5 --> A JS library for developing web pages
+h2 --> Java
+h5 --> A programming language
+h2 --> C++
+h5 --> A programming language
+h2 --> W3.CSS
+h5 --> A CSS framework for faster and better responsive web pages
+h2 --> Bootstrap
+h5 --> A CSS framework for designing better web pages
+h2 --> C
+h2 --> C#
+h2 --> R
+h2 --> Kotlin
+h2 --> Node.js
+h2 --> React
+h2 --> JSON
+h2 --> Vue
+h2 --> MySQL
+h2 --> XML
+h2 --> Sass
+h2 --> Icons
+h2 --> RWD
+h2 --> Graphics
+h2 --> SVG
+h2 --> Canvas
+h2 --> Raspberry Pi
+h2 --> Cyber Security
+h2 --> Colors
+h2 --> Git
+h2 --> Matplotlib
+h2 --> NumPy
+h2 --> Pandas
+h2 --> SciPy
+h2 --> ASP
+h2 --> AngularJS
+h2 --> AppML
+h2 --> Go
+h2 --> TypeScript
+h2 --> Django
+h2 --> MongoDB
+h2 --> Statistics
+h2 --> Data Science
+h2 --> Typing Speed
+h2 --> HowTo
+h2 --> Code Game
+h2 --> Spaces
+h2 --> PostgreSQL
+h2 --> Excel
+h2 --> DSA - Data Structures and Algorithms
+h2 --> Machine Learning
+h2 --> Artificial Intelligence
+h1 --> Code Editor
+h4 --> With our online code editor, you can edit code and view the result in your browser
+h1 --> W3Schools Spaces
+h3 --> If you want to create your own website, check out W3Schools Spaces.
+h3 --> It is free to use, and does not require any setup:
+h1 --> My Learning
+h4 --> Track your progress with our free "My Learning" program.
+h4 --> Log in to your account, and start earning points!
+h1 --> Become a Plus User
+h3 --> And unlock powerful features:
+h1 --> Color Picker
+h4 --> W3Schools' famous color picker:
+h1 --> Code Game
+h2 --> Help the Lynx collect pine cones!
+h2 --> Exercises and Quizzes
+h4 --> Test your skills!
+h1 --> Web Templates
+h4 --> Browse our selection of free responsive HTML Templates
+h2 --> Kickstart your career
+h2 --> How To Section
+h4 --> Code snippets for HTML, CSS and JavaScript
+h6 --> For example, how to create a slideshow:
+h2 --> Contact Sales
+h2 --> Report Error
+h5 --> Top Tutorials
+h5 --> Top References
+h5 --> Top Examples
+h5 --> Get Certified
+
+The Bad:
+Description is missing, too short, or not relevant! Add a proper Meta Description
+Multiple H1 tags found: 13
+Local keyword 'new york' not found on the page.
+Local keyword 'los angeles' not found on the page.
+Local keyword 'san francisco' not found on the page.
+Local keyword 'miami' not found on the page.
+Local keyword 'chicago' not found on the page.
+
+Recommendations:
+Include a meta description that accurately describes the page content and includes relevant keywords.
+Use only one H1 tag per page to ensure clear content hierarchy.
+Include location-based keywords relevant to your business, such as 'new york'.
+Include location-based keywords relevant to your business, such as 'los angeles'.
+Include location-based keywords relevant to your business, such as 'san francisco'.
+Include location-based keywords relevant to your business, such as 'miami'.
+Include location-based keywords relevant to your business, such as 'chicago'.
+
+Image ALT Attributes:
+
+Internal Links: 0
+External Links: 0
+
+Competitor Analysis:
+Competitor URL: http://www.w3schools.com.com
+Title: .xyz Domain Names | Join Generation XYZ
+Meta Description: For every website, everywhere®
+Title Similarity: 20.29%
+Description Similarity: 0%
+
