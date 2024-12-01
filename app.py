@@ -26,8 +26,6 @@ nltk.download('punkt')
 
 def capture_screenshot(url, output_file, viewport_size):
     chrome_options = Options()
-    options.headless = True  # Headless mode for production
-    options.binary_location = "/usr/bin/google-chrome-stable"
     chrome_options.add_argument("--headless")
     chrome_options.add_argument(f"--window-size={viewport_size}")  # Set viewport size
     driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
@@ -87,8 +85,6 @@ def analyze_seo(url):
     # Page Load Time Analysis
     def analyze_page_load_time(url):
         chrome_options = Options()
-        options.headless = True  # Headless mode for production
-        options.binary_location = "/usr/bin/google-chrome-stable"
         chrome_options.add_argument("--headless")
         driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
         driver.get(url)
