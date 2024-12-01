@@ -9,6 +9,7 @@ click==8.1.7
 colorama==0.4.6
 dnspython==2.7.0
 Flask==3.0.3
+gunicorn==23.0.0
 h11==0.14.0
 idna==3.7
 itsdangerous==2.2.0
