@@ -26,7 +26,7 @@ nltk.download('stopwords')
 nltk.download('punkt')
 
 def capture_screenshot(url, output_file, viewport_size):
-     chromedriver_autoinstaller.install()
+    chromedriver_autoinstaller.install()
     chrome_options = Options()
     chrome_options.add_argument("--headless")
     chrome_options.add_argument(f"--window-size={viewport_size}")  # Set viewport size
