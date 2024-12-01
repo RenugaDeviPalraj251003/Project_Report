@@ -1,3 +1,5 @@
+FROM python:3.9-slim
+
 RUN apt-get update -y && \
     apt-get install -y wget curl unzip gnupg2 && \
     curl -sS https://dl-ssl.google.com/linux/linux_signing_key.pub | apt-key add - && \
